@@ -80,10 +80,12 @@ const achekz = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🏥 **[EduWatch](https://github.com/achekz/eduwatch)** | Educational monitoring platform | TypeScript, React |
-| 📊 **[CRM System](https://github.com/achekz/crm)** | Customer relationship management | TypeScript, Node.js |
-| 🌐 **[WebIoT](https://github.com/achekz/webiot)** | IoT dashboard with real-time data | TypeScript, MQTT |
-| 🤖 **[IoT PFE](https://github.com/achekz/iotpfe)** | Final year IoT project | Hardware + Software |
+| 🌐 **[WebIoT](https://github.com/achekz/webiot)** | Real-time IoT dashboard for monitoring & controlling devices | TypeScript, React, MQTT |
+| 📊 **[CRM System](https://github.com/achekz/crm)** | Full-featured customer relationship management platform | TypeScript, React, Node.js |
+| 🤖 **[Omni AI](https://github.com/achekz/omnia)** | Full-stack AI platform with a Python ML service | React, Node.js, Python |
+| 🎓 **[UGET](https://github.com/achekz/uget)** | Official website & CMS for a Tunisian student union | Next.js, Supabase |
+| 📁 **[TIPCS DMS](https://github.com/achekz/tipcs)** | Document management system with barcode generation | JavaScript, Electron |
+| 🏛️ **[Louvre AR](https://github.com/achekz/model-ar)** | Web AR experience with interactive 3D museum artefacts | HTML, WebAR, 3D |
 
 ---
 
